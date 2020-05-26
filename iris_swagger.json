@@ -1,11 +1,15 @@
 {
-  "x-generator": "NSwag v13.2.5.0 (NJsonSchema v10.1.7.0 (Newtonsoft.Json v12.0.0.0))",
   "openapi": "3.0.0",
   "info": {
-    "title": "Iris API",
-    "description": "Iris API for Iris website.",
-    "termsOfService": "None",
-    "version": "3.1.2"
+    "title": "IRIS API",
+    "version": "1.0",
+    "description": "The complete IRIS API.",
+    "contact": {
+      "name": "Global EDI & Integration Support",
+      "email": "edi.support.ff.hq@geodis.com",
+      "url": "https://www.geodis.com"
+    },
+    "termsOfService": "The IRIS API is intended only for clients of GEODIS and access to the services offered through the API need to be approved and activated by GEODIS before they can be utilized."
   },
   "servers": [
     {
